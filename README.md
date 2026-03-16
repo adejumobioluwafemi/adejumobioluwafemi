@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I'm an AI/ML engineer and researcher. My work sits at the intersection of **multimodal learning**, **large language models**, **AI security**, and **trustworthy AI systems** — building tools that make AI safer, more auditable, and more equitable.
 
-Previously, I trained multimodal deep learning systems for precision agriculture at Skolkovo Institute of Science and Technology (Skoltech), Moscow, where I fused satellite imagery, weather data, and farm records to forecast crop yields. I hold an MSc in Advanced Computational Science (CGPA: 3.73/4.0) and a BSc in Mathematics.
+Previously, I trained multimodal deep learning systems for precision agriculture at Skolkovo Institute of Science and Technology (Skoltech), Moscow, where I fused satellite imagery, weather data, and farm records to forecast crop yields. I hold an MSc in Advanced Computational Science and a BSc in Mathematics.
 
 I currently lead [DeepFly Tech Labs](https://www.deepflytechlabs.com/), a data-driven AI startup building intelligent solutions for critical sectors including agriculture, healthcare, and education in Nigeria. I'm also actively open to collaborating on research in trustworthy AI/AI security.
 
@@ -65,7 +65,7 @@ I currently lead [DeepFly Tech Labs](https://www.deepflytechlabs.com/), a data-d
 | 📄 [OCR Multi-Format Processor](https://github.com/adejumobioluwafemi/ocr-multi-format) | Production-ready OCR system for PDF, PNG, and JPG with multi-engine processing (EasyOCR + Tesseract), confidence scoring, batch processing, image preprocessing pipelines, and Word document export. | FastAPI · EasyOCR · Tesseract · Streamlit · OpenCV · PyTorch · Docker |
 | 📧 [Bulk Email Automation API](https://github.com/adejumobioluwafemi/bulk-email-api) | Email automation microservice for scheduling and sending personalized bulk emails. Timezone-aware cron scheduling, JWT auth, SMTP delivery, real-time Streamlit frontend with attachment handling and column mapping. | FastAPI · SQLModel · PostgreSQL · Streamlit · JWT · SMTP |
 | 🖐️ [WebAR Handwashing Trainer](https://github.com/adejumobioluwafemi/webar-handwashing) | Browser-based AR educational platform demonstrating proper handwashing technique via real-time camera overlays and 3D visual guides. Works on iOS and Android without app installation. Includes frame rate monitoring across devices. | JavaScript · Three.js · MediaPipe · WebXR · Vite · Vercel |
-| ✝️ [Autopsalm](https://github.com/adejumobioluwafemi/autopsalm) | Autonomous scripture display system for churches — auto-advances Bible verses with multi-translation support (KJV, NIV), fullscreen church mode, font size control, and a cron-based scheduling engine. | Python · FastAPI · SQLite |
+| ✝️ [Autopsalm](https://github.com/adejumobioluwafemi/autopsalm) | Autonomous scripture display system for churches — auto-advances Bible verses with multi-translation support (KJV, NIV, etc.), fullscreen church mode, font size control, and a cron-based scheduling engine. | Python · FastAPI · SQLite |
 
 ### 🎓 Research & academic projects
 
@@ -133,8 +133,8 @@ My research interests:
 
 ## Selected experience
 
-- **Founder & Lead Consultant** — DeepFly Tech Labs, Ibadan *(2025–present)*  
-  AI startup across data curation, AI automation, risk management, and skills development. Secured ₦2.45M government grant for agricultural data infrastructure across Oyo State.
+- **Founder & Lead Consultant** — DeepFly Tech Labs *(2025–present)*  
+  AI startup across data curation, AI automation, risk management, and skills development. Secured ₦2.45M government grant for agricultural data infrastructure across Oyo State, Nigeria.
 
 - **Research ML Engineer** — Project Center for Agro Technologies, Skoltech *(2024–2025)*  
   Multimodal deep learning (LSTM, sinusoidal NNs, attention) on satellite + weather + farm records for crop yield forecasting.
@@ -157,6 +157,6 @@ My research interests:
 
 <div align="center">
 
-*"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future." — Jeremiah 29:11*
+*"Seest thou a man diligent in his business? he shall stand before kings; He shall not stand before mean men." — Proverbs 22:29*
 
 </div>
