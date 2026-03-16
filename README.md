@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Oluwafemi Adejumobi
 
-**AI/ML Engineer · AI Security Researcher · Builder**
+**AI/ML Engineer · AI Security Researcher · Building a farm of safe agents**
 
 *Bridging rigorous mathematics, multimodal machine learning, and trustworthy AI*
 
