@@ -137,21 +137,20 @@ My research interests:
   AI startup across data curation, AI automation, risk management, and skills development. Secured ₦2.45M government grant for agricultural data infrastructure across Oyo State.
 
 - **Research ML Engineer** — Project Center for Agro Technologies, Skoltech *(2024–2025)*  
-  Multimodal deep learning (LSTM, sinusoidal NNs, attention) on satellite + weather + soil data for crop yield forecasting.
+  Multimodal deep learning (LSTM, sinusoidal NNs, attention) on satellite + weather + farm records for crop yield forecasting.
 
 - **ML Engineer Intern** — MedTech AI, Moscow *(2023)*  
   Revenue forecasting with CatBoost, GRU, and Temporal Fusion Transformers.
 
 - **Data Scientist** — Fintrak Software Company, Lagos *(2021–2022)*  
-  Financial dashboards, churn prediction, and customer segmentation for major African banks.
+  Financial dashboards and advanced customer analytics for major African banks.
 
 ---
 
 ## Currently
 
-- 📖 Reading: *Build a Large Language Model From Scratch* (Raschka) + *Practical AI Security* (Farlow)
-- 🔨 Building: AI safety/security portfolio — bias detection, privacy auditing, agent tracing
-- 🎓 Seeking: Fully funded PhD in AI security / trustworthy AI (AU · UK · EU, Sept 2026)
+- 📖 Reading: *Practical AI Security* (Farlow)
+- 🔨 Open to collaborations in building: AI safety/security frameworks — interpretability, bias detection/mitigation, privacy auditing, agent tracing
 - 💼 Open to: Remote AI engineer or AI red-teaming roles
 
 ---
