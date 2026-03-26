@@ -46,9 +46,9 @@ I currently lead [DeepFly Tech Labs](https://www.deepflytechlabs.com/), a data-d
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔍 [BiasRadar](https://github.com/adejumobioluwafemi/biasradar) | Open-source toolkit for detecting gender, racial, and occupational bias in LLMs. Generates structured bias report cards across WinoBias, StereoSet, and BBQ benchmarks. | Python · HuggingFace · Gradio |
-<!--| 🔒 [PrivacyAudit](https://github.com/YOUR_USERNAME/privacy-audit) | Scans LLM outputs for accidental PII leakage. Benchmarks multiple open-source models and generates privacy risk scores. | Python · HuggingFace · spaCy |
-| 🕵️ [AgentTrace](https://github.com/YOUR_USERNAME/agent-trace) | Audit logger and anomaly detector for LLM agent tool calls. Detects prompt injection, unexpected tool sequences, and looping behaviour. | Python · LangChain · Streamlit |-->
+| 🔍 [BiasRadar](https://github.com/adejumobioluwafemi/equi-trace) | Open-source toolkit for detecting gender, racial, and occupational bias in LLMs. Generates structured bias report cards across WinoBias, StereoSet, and BBQ benchmarks. | Python · HuggingFace · Gradio |
+<!--| 🔒 [PrivacyAudit](https://github.com/adejumobioluwafemi/privacy-audit) | Scans LLM outputs for accidental PII leakage. Benchmarks multiple open-source models and generates privacy risk scores. | Python · HuggingFace · spaCy |
+| 🕵️ [AgentTrace](https://github.com/adejumobioluwafemi/agent-trace) | Audit logger and anomaly detector for LLM agent tool calls. Detects prompt injection, unexpected tool sequences, and looping behaviour. | Python · LangChain · Streamlit |-->
 
 ### 🏗️ ML infrastructure & data tools
 
@@ -61,19 +61,19 @@ I currently lead [DeepFly Tech Labs](https://www.deepflytechlabs.com/), a data-d
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 💬 [Chatbot on Database](https://github.com/adejumobioluwafemi/chatbot-on-database) | Production-grade natural language querying system for MSSQL databases. Multi-LLM fallback architecture (Groq → NVIDIA Nemotron → OpenAI), SQL injection prevention, JWT auth, and SQLGlot transpilation across PostgreSQL/MySQL/MSSQL dialects. Improved response times 40% via query caching. | Python · FastAPI · Docker · SQL · SQLGlot · OpenAI · Groq |
-| 📄 [OCR Multi-Format Processor](https://github.com/adejumobioluwafemi/ocr-multi-format) | Production-ready OCR system for PDF, PNG, and JPG with multi-engine processing (EasyOCR + Tesseract), confidence scoring, batch processing, image preprocessing pipelines, and Word document export. | FastAPI · EasyOCR · Tesseract · Streamlit · OpenCV · PyTorch · Docker |
-| 📧 [Bulk Email Automation API](https://github.com/adejumobioluwafemi/bulk-email-api) | Email automation microservice for scheduling and sending personalized bulk emails. Timezone-aware cron scheduling, JWT auth, SMTP delivery, real-time Streamlit frontend with attachment handling and column mapping. | FastAPI · SQLModel · PostgreSQL · Streamlit · JWT · SMTP |
-| 🖐️ [WebAR Handwashing Trainer](https://github.com/adejumobioluwafemi/webar-handwashing) | Browser-based AR educational platform demonstrating proper handwashing technique via real-time camera overlays and 3D visual guides. Works on iOS and Android without app installation. Includes frame rate monitoring across devices. | JavaScript · Three.js · MediaPipe · WebXR · Vite · Vercel |
+| 💬 [Chatbot on Database](https://github.com/adejumobioluwafemi/chatbotondb_fintrak) | Production-grade natural language querying system for MSSQL databases. Multi-LLM fallback architecture (Groq → NVIDIA Nemotron → OpenAI), SQL injection prevention, JWT auth, and SQLGlot transpilation across PostgreSQL/MySQL/MSSQL dialects. Improved response times 40% via query caching. | Python · FastAPI · Docker · SQL · SQLGlot · OpenAI · Groq |
+| 📄 [OCR Multi-Format Processor](https://github.com/adejumobioluwafemi/ocr-app) | Production-ready OCR system for PDF, PNG, and JPG with multi-engine processing (EasyOCR + Tesseract), confidence scoring, batch processing, image preprocessing pipelines, and Word document export. | FastAPI · EasyOCR · Tesseract · Streamlit · OpenCV · PyTorch · Docker |
+| 📧 [Bulk Email Automation API](https://github.com/adejumobioluwafemi/email-automation-app) | Email automation microservice for scheduling and sending personalized bulk emails. Timezone-aware cron scheduling, JWT auth, SMTP delivery, real-time Streamlit frontend with attachment handling and column mapping. | FastAPI · SQLModel · PostgreSQL · Streamlit · JWT · SMTP |
+| 🖐️ [WebAR Handwashing Trainer](https://github.com/adejumobioluwafemi/webar-handwash-demo) | Browser-based AR educational platform demonstrating proper handwashing technique via real-time camera overlays and 3D visual guides. Works on iOS and Android without app installation. Includes frame rate monitoring across devices. | JavaScript · Three.js · MediaPipe · WebXR · Vite · Vercel |
 | ✝️ [Autopsalm](https://github.com/adejumobioluwafemi/autopsalm) | Autonomous scripture display system for churches — auto-advances Bible verses with multi-translation support (KJV, NIV, etc.), fullscreen church mode, font size control, and a cron-based scheduling engine. | Python · FastAPI · SQLite |
 
 ### 🎓 Research & academic projects
 
 | Project | Description | Stack | Year |
 |---------|-------------|-------|------|
-| 🧠 [Fused Window Transformers — fMRI](https://github.com/adejumobioluwafemi/bolt-fmri) | Replication of the BolT model for fMRI time series analysis. Trained and tested on the ABIDE-1 dataset following the original paper methodology. Led a team of 5. | PyTorch | 2023 |
-| ⚡ [CUDA-Accelerated MLP](https://github.com/adejumobioluwafemi/cuda-mlp) | Custom CUDA kernels for matrix multiplication, matvec, ReLU, Softmax, and training loop to accelerate a 5-layer MLP on CIFAR-10. Built in a team of 2 for a High-Performance Computing course. | C++ · CUDA | 2023 |
-| 🖼️ [Spatially-Adaptive Image Translation](https://github.com/adejumobioluwafemi/spatially-adaptive-img-translation) | Replication of the generator network from "Spatially-Adaptive Pixelwise Networks for Fast Image Translation." Implemented within a team of 4 for a Machine Learning course. | PyTorch | 2023 |
+| 🧠 [Fused Window Transformers — fMRI](https://github.com/adejumobioluwafemi/diff_BolT) | Replication of the BolT model for fMRI time series analysis. Trained and tested on the ABIDE-1 dataset following the original paper methodology. Led a team of 5. | PyTorch | 2023 |
+| ⚡ [CUDA-Accelerated MLP](https://github.com/adejumobioluwafemi/High-Performance-Computing_Project) | Custom CUDA kernels for matrix multiplication, matvec, ReLU, Softmax, and training loop to accelerate a 5-layer MLP on CIFAR-10. Built in a team of 2 for a High-Performance Computing course. | C++ · CUDA | 2023 |
+| 🖼️ [Spatially-Adaptive Image Translation](https://github.com/adejumobioluwafemi/Machine-Learning-Project-2023) | Replication of the generator network from "Spatially-Adaptive Pixelwise Networks for Fast Image Translation." Implemented within a team of 4 for a Machine Learning course. | PyTorch | 2023 |
 
 ---
 
